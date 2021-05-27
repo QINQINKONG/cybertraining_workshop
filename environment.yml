@@ -20,4 +20,5 @@ dependencies:
   - intake-esm
   - gcsfs
   - bsddb3
+  - cmaps
 
